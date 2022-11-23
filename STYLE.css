@@ -1,0 +1,18 @@
+div 
+table, th, td {
+  border: 1px solid;
+}
+		{ 
+		background: #E5E8E1;
+		color: #439775;
+		text-align: center; 
+		text-transform: lowercase;
+		letter-spacing: 5px;
+	}
+	.rose-background {
+background: #CE9389;
+color: #96584B;
+text-decoration: underline;
+text-transform:uppercase;
+letter-spacing: 1px;
+}
